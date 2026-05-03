@@ -21,10 +21,6 @@ This project is an end-to-end healthcare analytics solution built using Power BI
 
 ADF → Azure SQL → Power BI
 
-## 📸 Dashboard Preview
-
-(Add your screenshot here)
-
 ## 📌 Key Insights
 
 * Revenue trends over time
