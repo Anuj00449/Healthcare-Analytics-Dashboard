@@ -4,6 +4,8 @@
 
 This project is an end-to-end healthcare analytics solution built using Power BI, Azure SQL, and Azure Data Factory.
 
+Live Demo Link:-https://drive.google.com/file/d/1M-i9P-I3kCDzzXKJnV9vMeYWDNwTpyZr/view?usp=drive_link
+
 ## 🚀 Features
 
 * Interactive dashboard with filters (City, Doctor, Date)
